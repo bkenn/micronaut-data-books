@@ -1,0 +1,1 @@
+Simple sample of a micronaut data project in kotlin.
